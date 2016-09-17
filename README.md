@@ -3,7 +3,12 @@
 ## Topics
 
 1. Namespaces
-2. 
+2. Virtual functions
+3. File handling
+4. Multifile programs
+5. Templates
+6. Exception handling
+7. STL
 
 ## Tasks
 
