@@ -1,5 +1,10 @@
 # C++ | Advanced
 
+## Topics
+
+1. Namespaces
+2. 
+
 ## Tasks
 
 1. WAP2 print a calendar of the current month in the following format, with the current date higlighted.
