@@ -9,6 +9,10 @@
 5. Templates
 6. Exception handling
 7. STL
+8. Bit Manipulation
+9. Casts, enumerations,macros
+10. Generating Random numbers
+11. Memory Management
 
 ## Tasks
 
