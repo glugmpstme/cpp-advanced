@@ -14,6 +14,9 @@
 10. Casts, enumerations,macros
 11. Generating Random numbers
 12. Memory Management
+13. C++ processor
+14. Multithreading
+15. Signal Handling
 
 ## Tasks
 
