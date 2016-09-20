@@ -7,12 +7,13 @@
 3. File handling
 4. Multifile programs
 5. Templates
-6. Exception handling
-7. STL
-8. Bit Manipulation
-9. Casts, enumerations,macros
-10. Generating Random numbers
-11. Memory Management
+6. Pointers and strings
+7. Exception handling
+8. STL
+9. Bit Manipulation
+10. Casts, enumerations,macros
+11. Generating Random numbers
+12. Memory Management
 
 ## Tasks
 
