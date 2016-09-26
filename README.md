@@ -16,7 +16,7 @@
 12. Memory Management
 13. C++ processor
 14. Multithreading
-15. Signal Handling
+15. Signal Handling ( Specific to the platform, not part of C++ internals )
 
 ## Tasks
 
